@@ -1,1 +1,3 @@
 https://github.com/tombruijn/counter.js
+
+http://codeseven.github.io/toastr/demo.html
